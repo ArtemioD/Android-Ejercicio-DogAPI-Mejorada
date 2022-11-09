@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Dog API</string>
+    <string name="hint_text_breeds">Breeds list</string>
+    <string name="dogs">photo dogs</string>
+
+    <string-array name="breeds_list">
+        <!-- A -->
+        <item>Affenpinscher</item>
+        <item>African</item>
+        <item>Airedale</item>
+        <item>Akita</item>
+        <item>Appenzeller</item>
+        <item>Australian Shepherd</item>
+        <!-- B -->
+        <item>Basenji</item>
+        <item>Beagle</item>
+        <item>Bluetick</item>
+        <item>Borzoi</item>
+        <item>Bouvier</item>
+        <item>Boxer</item>
+        <item>Brabancon</item>
+        <item>Briard</item>
+        <item>Buhund Norwegian</item>
+        <item>Bulldog Boston</item>
+        <item>Bulldog English</item>
+        <item>Bulldog French</item>
+        <item>Bullterrier Staffordshire</item>
+        <!-- C -->
+        <item>Cattledog Australian</item>
+        <item>Chihuahua</item>
+        <item>Chow</item>
+        <item>Clumber</item>
+        <item>Cockapoo</item>
+        <item>Collie Border</item>
+        <item>Coonhound</item>
+        <item>Corgi Cardigan</item>
+        <item>Cotondetulear</item>
+        <!-- D -->
+        <item>Dachshund</item>
+        <item>Dalmatian</item>
+        <item>Dane Great</item>
+        <item>Deerhound Scottish</item>
+        <item>Dhole</item>
+        <item>Dingo</item>
+        <item>Doberman</item>
+        <!-- E -->
+        <item>Elkhound Norwegian</item>
+        <item>Entlebucher</item>
+        <item>Eskimo</item>
+        <!-- F -->
+        <item>Finnish Lapphund</item>
+        <item>Frise Bichon</item>
+        <!-- G -->
+        <item>Germanshepherd</item>
+        <item>Golden</item>
+        <item>Greyhound Italian</item>
+        <item>Groenendael</item>
+        <!-- H -->
+        <item>Havanese</item>
+        <item>Hound Afghan</item>
+        <item>Hound Basset</item>
+        <item>Hound Blood</item>
+        <item>Hound English</item>
+        <item>Hound Ibizan</item>
+        <item>Hound Plott</item>
+        <item>Hound Walker</item>
+        <item>Husky</item>
+        <!-- K -->
+        <item>Keeshond</item>
+        <item>Kelpie</item>
+        <item>Komondor</item>
+        <item>Kuvasz</item>
+        <!-- L -->
+        <item>Labradoodle</item>
+        <item>Labrador</item>
+        <item>Leonberg</item>
+        <item>Lhasa</item>
+        <!-- M -->
+        <item>Malamute</item>
+        <item>Malinois</item>
+        <item>Maltese</item>
+        <item>Mastiff Bull</item>
+        <item>Mastiff English</item>
+        <item>Mastiff Tibetan</item>
+        <item>Mexicanhairless</item>
+        <item>Mix</item>
+        <item>Mountain Bernese</item>
+        <item>Mountain Swiss</item>
+        <!-- N -->
+        <item>Newfoundland</item>
+        <!-- O -->
+        <item>Otterhound</item>
+        <item>Ovcharka Caucasian</item>
+        <!-- P -->
+        <item>Papillon</item>
+        <item>Pekinese</item>
+        <item>Pembroke</item>
+        <item>Pinscher Miniature</item>
+        <item>Pitbull</item>
+        <item>Pointer German</item>
+        <item>Pointer Germanlonghair</item>
+        <item>Pomeranian</item>
+        <item>Poodle Medium</item>
+        <item>Poodle Miniature</item>
+        <item>Poodle Standard</item>
+        <item>Poodle Toy</item>
+        <item>Pug</item>
+        <item>Puggle</item>
+        <item>Pyrenees</item>
+        <!-- R -->
+        <item>Redbone</item>
+        <item>Retriever Chesapeake</item>
+        <item>Retriever Curly</item>
+        <item>Retriever Flatcoated</item>
+        <item>Retriever Golden</item>
+        <item>Ridgeback Rhodesian</item>
+        <item>Rottweiler</item>
+        <!-- S -->
+        <item>Saluki</item>
+        <item>Samoyed</item>
+        <item>Schipperke</item>
+        <item>Schnauzer Giant</item>
+        <item>Schnauzer Miniature</item>
+        <item>Segugio Italian</item>
+        <item>Setter English</item>
+        <item>Setter Gordon</item>
+        <item>Setter Irish</item>
+        <item>Sharpei</item>
+        <item>Sheepdog English</item>
+        <item>Sheepdog Shetland</item>
+        <item>Shiba</item>
+        <item>Shihtzu</item>
+        <item>Spaniel Blenheim</item>
+        <item>Spaniel Brittany</item>
+        <item>Spaniel Cocker</item>
+        <item>Spaniel Irish</item>
+        <item>Spaniel Japanese</item>
+        <item>Spaniel Sussex</item>
+        <item>Spaniel Welsh</item>
+        <item>Springer English</item>
+        <item>Stbernard</item>
+        <!-- T -->
+        <item>Terrier America</item>
+        <item>Terrier Australia</item>
+        <item>Terrier Bedlington</item>
+        <item>Terrier Borde</item>
+        <item>Terrier Cairn</item>
+        <item>Terrier Dandi</item>
+        <item>Terrier Fox</item>
+        <item>Terrier Irish</item>
+        <item>Terrier Kerryblue</item>
+        <item>Terrier Lakeland</item>
+        <item>Terrier Norfolk</item>
+        <item>Terrier Norwich</item>
+        <item>Terrier Patterdale</item>
+        <item>Terrier Russell</item>
+        <item>Terrier Scottish</item>
+        <item>Terrier Sealyham</item>
+        <item>Terrier Silky</item>
+        <item>Terrier Tibetan</item>
+        <item>Terrier Toy</item>
+        <item>Terrier Welsh</item>
+        <item>Terrier Westhighland</item>
+        <item>Terrier Wheaten</item>
+        <item>Terrier Yorkshire</item>
+        <item>Tervuren</item>
+        <!-- V -->
+        <item>Vizsla</item>
+        <!-- W -->
+        <item>Waterdog Spanis</item>
+        <item>Weimaraner</item>
+        <item>Whippet</item>
+        <item>Wolfhound Irish</item>
+    </string-array>
+</resources>
