@@ -12,8 +12,8 @@ App vincula los componentes de la IU a las fuentes de datos usando un formato de
 - ViewModel<br>
 - LiveData<br>
 </p>
+<h3><a href="https://www.youtube.com/watch?v=RHunlKEcLHs&ab_channel=ArtemioDerkachev" target="_blanck">Ver en YouTube</a></h3> 
 <hr>
-<h3>Link en YouTube: <a href="https://www.youtube.com/watch?v=RHunlKEcLHs&ab_channel=ArtemioDerkachev" target="_blanck">click aqui</a></h3> 
 <div align="center">
 <img src="https://github.com/ArtemioD/ejDogAPI/blob/main/app/src/main/res/drawable/dog_api.png"/>
 </div>
